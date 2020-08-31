@@ -1,0 +1,28 @@
+.kintama{
+  width:100px;
+  height:100px;
+  background-color:yellow;
+  border-radius:50px;
+  margin:300px 0px 0px 230px;
+  box-shadow:10px 10px black;
+}
+
+.kintama:active{
+  box-shadow: none;
+  position:relative;
+  top:10px;
+  left:10px;
+}
+
+h1{
+  font-size:20px;
+  padding:20px 0px 0px 30px;
+}
+
+a{
+  color:yellow;
+  padding-left: 30px;
+  padding-bottom:30px;
+  font-size: 20px;
+
+}
